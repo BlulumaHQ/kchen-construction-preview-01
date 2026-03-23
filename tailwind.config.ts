@@ -57,6 +57,17 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        kchen: {
+          green: "hsl(var(--kchen-green))",
+          dark: "hsl(var(--kchen-dark))",
+          gray: "hsl(var(--kchen-gray))",
+          cream: "hsl(var(--kchen-cream))",
+          "off-white": "hsl(var(--kchen-off-white))",
+          "funnel-dark": "hsl(var(--kchen-funnel-dark))",
+          "funnel-light": "hsl(var(--kchen-funnel-light))",
+          cta: "hsl(var(--kchen-cta))",
+          "cta-hover": "hsl(var(--kchen-cta-hover))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
